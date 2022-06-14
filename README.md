@@ -1,1 +1,1 @@
-# CharitySmartContract
+# Smart-Contract
